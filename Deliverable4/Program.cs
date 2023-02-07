@@ -6,7 +6,7 @@ namespace FibonacciSequence
     {
         static void Main(string[] args)
         {
-            int[] fib = new int[26];
+            int[] fib = new int[25];
             fib[0] = 0;
             fib[1] = 1;
 
